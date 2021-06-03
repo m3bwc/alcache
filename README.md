@@ -1,3 +1,3 @@
-# typescript-backend-template
+# Alcache
 
-This project is a simple template for the nodejs project which includes typescript and jest.
+Yet another package for cache storage.
