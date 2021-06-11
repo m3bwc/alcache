@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datapain/typescript-backend-template.git"
+    "url": "git+https://github.com/datapain/alcache.git"
   },
   "keywords": [
     "template",
