@@ -23,4 +23,4 @@ jobs:
       node-version: '14.x'
    # Do stuff
    - name: Publish new release (if applicable)
-     run: npx or-release --pre-release=next --token=${{ secrets.OR_RELEASE_TOKEN }} --repository=$GITHUB_REPOSITORY
+     run: npx or-release --pre-release=next --token=${{ secrets.OR_RELEASE_TOKEN }} --repository=$GITHUB_REPOSITORY --config-file=or-release.json
